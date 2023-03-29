@@ -1,2 +1,2 @@
 # Blog-Comments
-Populae comments for my blog website
+Populate comments for my blog website
